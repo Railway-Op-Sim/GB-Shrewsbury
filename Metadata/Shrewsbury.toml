@@ -1,6 +1,6 @@
 rly_file = "Shrewsbury.rly"
 ttb_files = [ "Fri_18_11_2022_0600.ttb",]
-img_files = []
+img_files = [ "Shrewsbury.bmp",]
 doc_files = [ "README.md",]
 release_date = "2022-11-20"
 version = "1.0.0"
