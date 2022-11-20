@@ -1,0 +1,13 @@
+rly_file = "Shrewsbury.rly"
+ttb_files = [ "Fri_18_11_2022_0600.ttb",]
+img_files = []
+doc_files = [ "README.md",]
+release_date = "2022-11-20"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+display_name = "Shrewsbury"
+name = "Shrewsbury"
+author = "Kristian Zarębski"
+contributors = []
