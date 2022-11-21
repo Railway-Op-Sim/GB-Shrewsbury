@@ -11,3 +11,4 @@ display_name = "Shrewsbury, UK"
 name = "Shrewsbury"
 author = "Krizar"
 contributors = []
+ssn_files = [ "Shrewsbury_Fri_18_11_2022_0600.ssn",]
