@@ -13,7 +13,7 @@ Simulation of Shrewsbury Railway Station, in Shrewsbury, Shropshire, UK.
 | Speed Limits | :heavy_check_mark: |
 | Distances | :heavy_check_mark: |
 | Timetable | :heavy_check_mark: |
-| Documentation | :x: |
+| Documentation | :heavy_check_mark: |
 
 
 ## Data Sources
